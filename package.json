@@ -1,16 +1,18 @@
 {
-  "engines": {
-    "node": "14.x"
-  },
   "dependencies": {
     "@dicebear/collection": "^6.0.4",
     "@dicebear/core": "^6.0.4",
     "axios": "^1.4.0",
     "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
     "bwip-js": "^4.1.1",
     "cloudinary": "^1.40.0",
+    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0",
     "node-fetch": "^2.7.0",
     "nodemailer": "^6.9.4",
     "otp-generator": "^4.0.1",
